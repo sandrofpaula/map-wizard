@@ -26,6 +26,11 @@ O sistema permite criar, editar, visualizar e excluir locais, além de fornecer 
     ```sh
     cd map-wizard
     ```
+    **Inicie o servidor:**
+    ```sh
+    php -S localhost:3000
+    ```
+
 
 3. **Configure o servidor web:**
     - Certifique-se de que o servidor web está apontando para o diretório do projeto.
