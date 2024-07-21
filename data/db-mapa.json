@@ -1,0 +1,17 @@
+{
+    "google_api_key": "AIzaSyA-4bmvcyJRirX5Z63iwSMm-4BxNQQlIoU",
+    "mapas": [
+        {
+            "id": 1,
+            "nome": "Zoológico Do Cigs",
+            "endereco": "Zoológico Do Cigs - São Jorge, Manaus - AM, Brasil",
+            "localizacao": "-3.1019777,-60.0450049"
+        },
+        {
+            "id": 2,
+            "nome": "Arena da Amazônia",
+            "endereco": "Arena da Amazônia - Avenida Constantino Nery - Flores, Manaus - AM, Brasil",
+            "localizacao": "-3.0832457,-60.0281392"
+        }
+    ]
+}
