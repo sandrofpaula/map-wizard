@@ -19,12 +19,12 @@ O sistema permite criar, editar, visualizar e excluir locais, além de fornecer 
 
 1. **Clone o repositório:**
     ```sh
-    git clone https://github.com/seu-usuario/sistema-de-mapas.git
+    git clone https://github.com/sandrofpaula/map-wizard.git
     ```
 
 2. **Navegue até o diretório do projeto:**
     ```sh
-    cd sistema-de-mapas
+    cd map-wizard
     ```
 
 3. **Configure o servidor web:**
@@ -66,7 +66,7 @@ O sistema permite criar, editar, visualizar e excluir locais, além de fornecer 
 
 ### Instruções para Obter uma Google API Key
 
-1. Acesse o [Google Cloud Console](https://console.cloud.google.com/).
+1. Acesse o <a href="https://console.cloud.google.com/" target="_blank">Google Cloud Console</a>.
 2. Crie um novo projeto ou selecione um projeto existente.
 3. Vá para a seção "APIs & Services" e clique em "Enable APIs and Services".
 4. Habilite a "Maps JavaScript API".
@@ -84,7 +84,6 @@ O sistema permite criar, editar, visualizar e excluir locais, além de fornecer 
 
 ## Contato
 
-Para mais informações, entre em contato com [Sandro F. Paula](mailto:sandrofpaula@gmail.com).
-Linkedin: https://www.linkedin.com/in/sandro-paula-379091108/
+Para mais informações, entre em contato pelo <a href="https://www.linkedin.com/in/sandro-paula-379091108/" target="_blank">LinkedIn</a>.
 
 
